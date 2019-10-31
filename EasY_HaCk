@@ -23,18 +23,18 @@ o='\033[0m'
 #banner
 sleep 0.5
 echo -e $yellow
-figlet -f big "EasYHaCk"
+figlet -f big "RAGHAV v3.2"
 
 echo -e "                   $g"Alpha"$r"Team"$w"DZ"" 
 echo -e "$a              # # # # # # # # # # # #"
 echo -e "$a              #$G                     $o$a#"
-echo -e "$a              #$G    $r"EasY_HaCk  V3.2"$a   $o$a#"
+echo -e "$a              #$G    $r"RAGHAV  V3.2"$a   $o$a#"
 echo -e "$a              #$G                     $o$a#"
 echo -e "$a              # # # # # # # # # # # #"
 echo
-echo -e "  $G1$w Welcome to This Tool For Penetration Testing $o" 
-echo -e $o"$green               Made by$yellow SABRI ZAKI "$o
-echo -e " $g          Developers Team :  Emad Fakhry "
+echo -e "  $G1$w Welcome to HACKING WORLD $o" 
+echo -e $o"$green               Made by$yellow PRITAM or RAGHAV "$o
+echo -e " $g          Developers Team :  RAGHAV3.0 "
 echo " "
 echo -e "              $red Press ENTER to Continue"
 echo -e $yellow
@@ -145,7 +145,7 @@ echo -e "$green ********** Do You Want to Contact Me ? **********"
 echo -e "$r                     press ENTER$reset"
 echo -n "[EasY_HaCk]~#:"
 read tmp4
-echo -e "$w My Facebook ID> $yellow www.facebook.com/sabri.zaki.31"
+echo -e "$w My Facebook ID> $yellow www.facebook.com/pintu.nanda.549"
 echo -e "$red               $ENTER$reset"
 echo -n "[EasY_HaCk]~#:"
 read tmp5
@@ -415,5 +415,5 @@ sleep 3
 clear 
 exit
 fi
-read zaki
+read raghav
 
